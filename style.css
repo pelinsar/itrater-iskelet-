@@ -1,0 +1,51 @@
+      #form{
+
+       width:560px; 
+       padding: 10px;
+       margin: left;
+      background-color: seagreen;
+     
+      }
+      
+* 
+      
+    body{
+    
+    
+    font-family: sabns-serif;
+    
+    }
+    .navbar{
+    
+    
+    background-color:seagreen;
+    text-align: center;
+    }
+    .navbar ul{
+    display: inline-flex;
+    list-style: none;
+    }
+    .navbar ul li{
+    width:150px ;
+    margin:15px;
+    padding: 15px;
+    }
+    
+    .navbar ul li a{
+    text-decoration: none;
+    color:white;
+    }
+    
+    .active,.navbar  ul li:hover{
+     background-color: black;   
+     border-radius:10px ;
+    }
+    .navbar.fas{
+    
+    
+        margin-right: 8px;
+    }
+    #SORU{
+
+        width: 30px; ;
+    }
